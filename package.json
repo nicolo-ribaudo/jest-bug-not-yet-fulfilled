@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "jest-bug-not-yet-fulfilled",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.0-next.11"
+  }
+}
